@@ -10,4 +10,4 @@ txt.close()
 py = open(f'./day {last_day+1}/day{last_day+1}_solutions.py', 'w')
 py.close()
 
-print(f'Successfully created {last_day+1} directory')
+print(f'Successfully created day {last_day+1} directory')
